@@ -1,4 +1,0 @@
-#Sun Jun 16 17:47:19 CEST 2019
-base.0=J\:\\flutter_projects\\funfact_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
