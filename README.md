@@ -1,16 +1,12 @@
-# funfact_app
+# Fun Fact Application
 
-A new Flutter application.
+A Flutter application that generates fun fact and changes the background color.
 
-## Getting Started
+![ezgif-3-b167c98ce475](https://user-images.githubusercontent.com/43049559/59566740-7eccef80-9064-11e9-8f19-6b33ae2d8a62.gif)
 
-This project is a starting point for a Flutter application.
+## Why this exists
 
-A few resources to get you started if this is your first Flutter project:
+This was written as an exercise to help me ramp up on Flutter, and it's intended to be an open source example. The tech used includes:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+If you spot a bug, feel free to file an issue report.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
